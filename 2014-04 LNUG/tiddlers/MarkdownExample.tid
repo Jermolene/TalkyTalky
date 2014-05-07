@@ -1,0 +1,44 @@
+title: Draft of 'MarkdownExample'
+type: text/x-markdown
+draft.of: MarkdownExample
+draft.title: MarkdownExample
+
+### Phrase Emphasis ###
+
+Markdown uses asterisks and underscores to indicate spans of emphasis.
+
+Markdown:
+
+    Some of these words *are emphasized*.
+    Some of these words _are emphasized also_.
+    
+    Use two asterisks for **strong emphasis**.
+    Or, if you prefer, __use two underscores instead__.
+
+## Lists ##
+
+Unordered (bulleted) lists use asterisks, pluses, and hyphens (`*`,
+`+`, and `-`) as list markers. These three markers are
+interchangable; this:
+
+    *   Candy.
+    *   Gum.
+    *   Booze.
+
+Ordered (numbered) lists use regular numbers, followed by periods, as
+list markers:
+
+    1.  Red
+    2.  Green
+    3.  Blue
+
+If you put blank lines between items, you'll get `<p>` tags for the
+list item text. You can create multi-paragraph list items by indenting
+the paragraphs by 4 spaces or 1 tab:
+
+    *   A list item.
+    
+        With multiple paragraphs.
+
+    *   Another item in the list.
+

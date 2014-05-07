@@ -1,0 +1,16 @@
+title: SingleFileDemo
+background-color: #4ee7d8
+
+! Demo of Single File Edition
+
+How an end user might use ~TiddlyWiki
+
+# Visit http://tiddlywiki.com/empty.html in Chrome
+# Copy and paste part of an HTML page
+# Drag an image from the file system
+# Drag task management tiddler from http://tiddlywiki.com and add tasks
+# Save using Chrome
+# Inspect source
+# Reload in Firefox, use ~TiddlyFox
+# Enable encryption, resave, check source
+# Apps for smartphones!

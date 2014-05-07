@@ -1,0 +1,10 @@
+title: HowDoesItWork
+background-color: #4ee7d8
+
+! How Does ~TiddlyWiki Work
+
+{{TiddlyWiki Architecture.svg}}
+
+Internally, ~TiddlyWiki is a representation transformation engine. It parses wiki text and renders it to the DOM with selective refresh to reflect subsequent changes. It can also render to a ~JavaScript "fake DOM" for server side rendering.
+
+Wiki text is used to render the user interface as well as the content of tiddlers. Once you know how to edit a tiddler you know how to customise TiddlyWiki, with no limits - it's only JavaScript.

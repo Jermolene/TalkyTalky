@@ -1,0 +1,10 @@
+title: BeingCrossPlatform
+background-color: #d8e7d3
+
+! Running on the Browser and Node.js
+
+Easy.
+
+Smallish boot kernel. Pluggable Common/JS 1.0-compatible modules based on tiddlers.
+
+Test framework based on Jasmine.

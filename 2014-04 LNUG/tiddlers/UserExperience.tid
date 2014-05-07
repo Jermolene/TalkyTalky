@@ -1,0 +1,13 @@
+title: UserExperience
+background-color: #d8e7d3
+
+! ~TiddlyWiki User Experience
+
+~TiddlyWiki has a simple user experience based on a small number of features that work together in combination:
+
+* Tiddlers (consisting of fields)
+* Links (and backlinks, missing and orphans)
+* Tags
+* Search
+* Transclusion
+* Images are first class citizens with text

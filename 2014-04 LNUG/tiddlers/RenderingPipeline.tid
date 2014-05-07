@@ -1,0 +1,14 @@
+title: RenderingPipeline
+background-color: #e7d3d8
+
+! ~TiddlyWiki Rendering Pipeline
+
+{{TiddlyWiki Architecture.svg}}
+
+Like Angular and Ractive. Not string based; always uses a DOM and selective updating.
+
+Show how sidebar state is held in [[$:/state/sidebar]]:
+
+```
+$tw.wiki.addTiddler(new $tw.Tiddler({title: "$:/state/sidebar",text: "yes"}))
+```

@@ -1,0 +1,10 @@
+title: TiddlyDesktop
+background-color: #d8e7d3
+
+! Enter node-webkit and ~TiddlyDesktop
+
+If you are a full stack ~JavaScript developer that knows node.js and the DOM, then node-webkit will make you feel like somebody from France discovering they can speak French in Canada.
+
+Access the file system from a browser event handler. Use Canvas on the server. Take web page thumbnails. Give your server a synchronous GUI.
+
+~TiddlyDesktop is a custom browser with extensions to support working with ~TiddlyWiki.

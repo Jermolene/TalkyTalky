@@ -1,0 +1,12 @@
+title: Introduction
+background-color: #d8d3e7
+
+! What is ~TiddlyWiki?
+
+[img width=300 [TW Thumbnail.jpg]]
+
+~TiddlyWiki is a ~JavaScript wiki that can run entirely in the browser, or under Node.js.
+
+It was first released 10 years ago (before jQuery!). ~TiddlyWiki5 began in 2011, and is currently in beta.
+
+https://github.com/Jermolene/TiddlyWiki5
