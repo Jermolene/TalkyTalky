@@ -1,0 +1,17 @@
+title: EverythingIsWikification
+background-color: #e7d3d8
+
+! Everything is Wikification
+
+The rendering pipeline does everything:
+
+* On the server:
+** Generate the standalone index.html file
+*** (Actually rendering a single tiddler to the fakedom, and then serialising it)
+** Generate static representations of individual tiddlers
+*** For example, [[ReadMe on GitHub|https://github.com/Jermolene/TiddlyWiki5/blob/master/readme.md]
+* In the browser for:
+** Displaying main page
+** Generating page title
+** Generating and dynamically updating stylesheets
+** Saving changes

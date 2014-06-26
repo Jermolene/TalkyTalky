@@ -1,0 +1,18 @@
+title: Saving
+background-color: #e7d3d8
+
+! How ~TiddlyWiki Saves Changes
+
+The awkward but HTML5-compliant way:
+
+```js
+var link = document.createElement("a");
+link.setAttribute("target","_blank");
+link.setAttribute("href","data:text/html," + encodeURIComponent(text));
+link.setAttribute("download",filename);
+document.body.appendChild(link);
+link.click();
+document.body.removeChild(link);
+```
+
+[[Full code on GitHub|https://github.com/Jermolene/TiddlyWiki5/blob/master/core%2Fmodules%2Fsavers%2Fdownload.js]]

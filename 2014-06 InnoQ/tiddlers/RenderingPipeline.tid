@@ -1,0 +1,9 @@
+title: RenderingPipeline
+background-color: #f7cece
+
+! ~TiddlyWiki Rendering Pipeline
+
+{{TiddlyWiki Architecture.svg}}
+
+Like Angular and Ractive. Not string based; always uses a DOM and selective updating.
+

@@ -7,6 +7,16 @@ tw-tiddler-frame tw-tiddler-view-frame $(missingTiddlerClass)$ $(shadowTiddlerCl
 background-color: $(backgroundColour)$;
 border-color: $(backgroundColour)$;
 \end
-<$set name="storyTiddler" value=<<currentTiddler>>><$set name="tiddlerInfoState" value=<<qualify "$:/state/tiddlerInfo">>><$set name="backgroundColour" value={{!!background-color}}><$tiddler tiddler=<<currentTiddler>>><div class=<<frame-classes>> style=<<frame-styles>>><$list filter="[all[shadows+tiddlers]tag[$:/tags/ViewTemplate]!has[draft.of]]" variable="listItem"><$transclude tiddler=<<listItem>>/></$list>
+<$set name="storyTiddler" value=<<currentTiddler>>>
+<$set name="tiddlerInfoState" value=<<qualify "$:/state/tiddlerInfo">>>
+<$set name="backgroundColour" value={{!!background-color}}>
+<$tiddler tiddler=<<currentTiddler>>>
+<div class=<<frame-classes>> style=<<frame-styles>>>
+<$list filter="[all[shadows+tiddlers]tag[$:/tags/ViewTemplate]!has[draft.of]]" variable="listItem">
+<$transclude tiddler=<<listItem>>/>
+</$list>
 </div>
-</$tiddler></$set></$set></$set>
+</$tiddler>
+</$set>
+</$set>
+</$set>

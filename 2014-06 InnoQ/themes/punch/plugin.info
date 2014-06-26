@@ -1,0 +1,9 @@
+{
+	"title": "$:/themes/tiddlywiki/punch",
+	"name": "Punch",
+	"author": "JeremyRuston",
+	"core-version": ">=5.0.0",
+	"plugin-type": "theme",
+	"description": "A simple read-only theme for presentations and home pages",
+	"dependents": ["$:/themes/tiddlywiki/vanilla"]
+}

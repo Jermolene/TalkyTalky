@@ -1,0 +1,8 @@
+title: ServerSync
+background-color: #f7e2ce
+
+! ~TiddlyWiki Server Synchronisation
+
+{{Server Architecture.svg}}
+
+The same ''syncer'' module is used in the browser and the server.

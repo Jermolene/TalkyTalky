@@ -1,0 +1,16 @@
+title: SingleFileDemo
+background-color: #f7e2ce
+
+! Demo of Single File Edition
+
+You're already in a demo of ~TiddlyWiki, but here's a quick run through of using it:
+
+# Visit http://tiddlywiki.com/empty.html in Chrome
+# Add and edit some tiddlers
+# Explore tags, search, sidebars
+# Drag an image from the file system
+# Copy and paste part of an HTML page
+# Save using Chrome
+# Inspect source
+# Reload in Firefox, use ~TiddlyFox
+# Enable encryption, resave, check source
