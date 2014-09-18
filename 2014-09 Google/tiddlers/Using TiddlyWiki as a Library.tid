@@ -5,9 +5,7 @@ background-color: #edbcf2
 
 ```js
 /*
-
 A sample node.js application that uses TiddlyWiki5 as a library
-
 */
 
 var $tw = {};
