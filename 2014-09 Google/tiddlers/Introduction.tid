@@ -1,0 +1,8 @@
+title: Introduction
+background-color: #f7e2ce
+
+! What is ~TiddlyWiki?
+
+[img[SingleFilePattern.png]]
+
+~TiddlyWiki is a ~JavaScript wiki that can run entirely in the browser, or under Node.js.

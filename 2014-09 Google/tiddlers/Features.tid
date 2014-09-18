@@ -1,0 +1,16 @@
+title: Features
+background-color: #d1caee
+
+! Features
+
+* Works on pretty much any HTML5 browser
+* Built-in encryption
+* Multi-language support for the user interface and your content
+* (Responsive) themes
+* Colour palettes
+* Plugins for popular JS libraries:
+** ~CodeMirror
+** D3.js
+** Highlight.js
+** ~MarkDown
+* Pluggable navigation visualisations

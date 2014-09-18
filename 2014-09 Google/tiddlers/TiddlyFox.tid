@@ -1,0 +1,8 @@
+title: TiddlyFox
+background-color: #d8d3e7
+
+! Saving with ~TiddlyFox
+
+[img height="400" [TiddlyFox.png]]
+
+Allows changes to be saved directly to the file system in Firefox (including Firefox for Android).

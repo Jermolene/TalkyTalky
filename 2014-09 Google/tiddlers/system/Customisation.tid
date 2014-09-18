@@ -1,0 +1,14 @@
+title: Customisation
+background-color: #e7d3d8
+
+! Customisation via System Tags
+
+Demo of customising ~TiddlyWiki:
+
+# Create a tiddler called ''MyMenu''
+# Tag it ''$:/tags/SideBar'' and give it the text of some menu items
+# Add a caption field
+# Add a ''list-before'' field
+# Same for adding a tab to [[$:/ControlPanel]]
+
+See http://tiddlywiki.com/#SystemTags

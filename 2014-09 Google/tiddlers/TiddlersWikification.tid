@@ -1,0 +1,17 @@
+title: TiddlersWikification
+background-color: #4ee7d8
+
+! Duality of ~TiddlyWiki
+
+!! ''Tiddly'' === Everything is a tiddler
+
+A tiddler is defined as the smallest semantic unit of information.
+
+//It is a structure optimised for reuse through aggregation and composition.//
+
+!! ''Wiki'' === Everything is wikification
+
+
+Wikification is the process of converting ~WikiText into HTML.
+
+//It makes linking (and other hypertext operations) become part of the punctuation of writing.//

@@ -1,0 +1,19 @@
+title: StaticSiteGeneration
+background-color: #e7d3d8
+
+! Static Site Generation
+
+```
+tiddlywiki ./myWiki \
+--rendertiddler $:/core/templates/static.template.html static.html text/plain \
+--rendertiddler $:/core/templates/alltiddlers.template.html alltiddlers.html text/plain \
+--rendertiddlers [!is[system]] $:/core/templates/static.tiddler.html static text/plain \
+--rendertiddler $:/core/templates/static.template.css static/static.css text/plain
+```
+
+[ext[static.html|http://tiddlywiki.com/static.html]]
+
+[ext[alltiddlers.html|http://tiddlywiki.com/alltiddlers.html]]
+
+[ext[static/AllTiddlers.html|http://tiddlywiki.com/static/AllTiddlers.html]]
+

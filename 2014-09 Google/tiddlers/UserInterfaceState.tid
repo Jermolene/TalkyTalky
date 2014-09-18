@@ -1,0 +1,17 @@
+title: UserInterfaceState
+background-color: #d1caee
+
+! User Interface State
+
+Show how sidebar state is held in [[$:/state/sidebar]]:
+
+```js
+$tw.wiki.addTiddler(new $tw.Tiddler({title: "$:/state/sidebar",text: "yes"}))
+```
+
+Basic primitives for user interfaces:
+
+* `<$transclude>` widget to transclude another tiddler
+* `<$reveal>` widget to selectively show or hide content according to a state tiddler
+* `<$button>` widget set or toggle a state tiddler
+* `<$list>` widget to repeat a template for each of several tiddlers
