@@ -1,0 +1,26 @@
+title: Node.js
+background-color: #d8d3e7
+
+! Running ~TiddlyWiki Under Node.js
+
+!! Creating a single file wiki
+
+```
+tiddlywiki mywiki --init tw5.com
+tiddlywiki mywiki --rendertiddler $:/core/save/all index.html text/plain
+```
+
+See the template for [[the HTML|https://github.com/Jermolene/TiddlyWiki5/blob/master/core/templates/tiddlywiki5.html.tid]], and for [[some of the CSS|https://github.com/Jermolene/TiddlyWiki5/blob/master/themes/tiddlywiki/snowwhite/base.tid]].
+
+!! Serving a wiki over HTTP
+
+```
+tiddlywiki my2wiki --init server
+tiddlywiki my2wiki --server
+```
+
+~TiddlyWiki5 provides a ~TiddlyWeb-compatible API
+
+!! Other options
+
+~PouchDB - from Jon Udell's Thali project - https://gist.github.com/judell/9744381

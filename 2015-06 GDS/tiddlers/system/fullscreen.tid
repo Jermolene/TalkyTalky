@@ -1,0 +1,4 @@
+title: $:/_fullscreen
+tags: $:/tags/TopRightBar
+
+<$button message="tm-full-screen" class="tc-btn tc-btn-invisible">{{$:/_fullscreen-button}}</$button>
