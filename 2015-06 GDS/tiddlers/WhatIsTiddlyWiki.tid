@@ -1,0 +1,10 @@
+title: WhatIsTiddlyWiki
+background-color: #FF9563
+
+! What is ~TiddlyWiki?
+
+[img width="75%" [SingleFilePattern.png]]
+
+~TiddlyWiki is a universal ~JavaScript wiki that can run entirely in the browser, or under Node.js. Internally, it is a pipeline for efficiently parsing and rendering a dialect of wikitext that is rich enough to express the entire user interface.
+
+It's also a Quine.

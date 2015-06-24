@@ -1,8 +1,10 @@
 title: Introduction
-background-color: #f7e2ce
+background-color: #DEFF65
 
-! What is ~TiddlyWiki?
+! Introduction
 
-[img[SingleFilePattern.png]]
+<iframe width="560" height="315" src="http://www.youtube.com/embed/KtCUr83XgyE" frameborder="0" allowfullscreen></iframe>
 
-~TiddlyWiki is a ~JavaScript wiki that can run entirely in the browser, or under Node.js.
+http://tiddlywiki.com/editions/introduction
+
+(which is itself a ~TiddlyWiki, of course).

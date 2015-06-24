@@ -1,0 +1,12 @@
+title: StandaloneDemo
+background-color: #A7FF7B
+
+! Demo
+
+* Visit http://tiddlywiki.com/empty.html in Google Chrome
+* Explore: Navigation, Editing, Tags, Fields, Sidebar, Search
+* Drag image and use Control Panel to set as page background
+* Show plugin library
+* Drag TaskManagementDemo from http://tiddlywiki.com
+* All the changes so far are confined to the browser...
+* Now we'll save locally using the "HTML5 fallback saver"

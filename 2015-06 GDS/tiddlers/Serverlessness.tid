@@ -1,10 +1,38 @@
 title: Serverlessness
-background-color: #d1caee
+background-color: #DEFF65
 
 ! Serverlessness FTW!
 
-Individual deserve the freedom to have private spaces where their thoughts are their own, and where they control their own environment, making their own trade-offs.
+<div class="tc-diatribe">
 
-How can we make an independent web? It's fundamentally asymmetrical; only brave homesteaders run their own servers, most people are happy to rent space from a central service.
+For web developers -- the generation of software-minded people that grew up with the web -- the web is a place of unparalleled experimentation and excitement: a venue for personal expression.
 
-For civilians, the barriers to running your own server are huge: it's a new cost for most people, and the benefit is intangible. It's one of those situations where the penalties for screwing up can be disproportionately unforgiving: eg, failing to keep backups or to keep security software up to date.
+But for most citizens of the earth, that personal expression is limited and modulated by the needs of the corporation providing the service they are using (and the government of the country hosting it).
+
+The dirty secret of the futuristic-seeming web is that its traditional client-server architecture has led us to a modern version of medieval feudalism.
+
+Few people have the freedom to enjoy private spaces where their thoughts are their own, and where they control their own environment, making their own trade-offs.
+
+Being client-server wasn't a problem in the dawn of the web: every group had a cooperative share of a server that they shared, and the internet was a network of networks, not, as we think of it now, a fabric for individual devices.
+
+For civilians, the barriers to running your own server are huge: it's a new cost for most people, the benefit is intangible and there are many risks. It's one of those situations where the penalties for screwing up can be disproportionately unforgiving: eg, failing to keep backups or to keep security software up to date.
+
+That leaves "renting" server space from Internet service providers like Google, Facebook and Twitter. We know how that bargain ends: the services are obliged to exploit their users because they are the one asset that the company has.
+
+It causes an immediate asymmetry between those that own or control servers and those that do not.
+
+So, what can we do? There's a bunch of exciting developments exploring decentralising the web: using peer-to-peer technologies to create social networks that are have the behaviour of Twitter, but no overall central control.
+
+But the trouble with those efforts is that they still require the participants to own a server, or borrow space on a server run by someone else.
+
+~TiddlyWiki is for a world that is barely served at the moment. People who don't have access to a server that they control. People whose only connection with the internet is a peripatetic thumbdrive. I collaborate with ~JavaScript programmers who don't own a laptop or even a tablet, but do all their development on a smartphone.
+
+Sure, the browser is a viewer for HTML pages, but whether you like it or not, it's also the most performant, portable VM that we've got, with the remarkable property that end users can provision it themselves
+
+The frustration is that the low incremental cost of serving another user with a server means that the sliver of server "power" for which so much is demanded is in fact so tiny. In fact, the average computer power expended by Google or Facebook to serve you are probably lower than the average computing power of your phone.
+
+Anyhow, in the end the problem might disappear by itself. However fast our data centres grow, servers there will be outnumbered by servers baked into the fabric of the objects in our lives: the ~IoT.
+
+So, I see ~TiddlyWiki as both a re-democratisation of the web; a way for anyone to build customised, interactive web applications from a small number of simple components, and as a universal mental model for recording and reusing information.
+
+</div>

@@ -1,0 +1,13 @@
+title: TiddlyFoxDemo
+background-color: #FF9563
+
+! Demo 2: ~TiddlyFox, Hierarchies and Customisation
+
+* Open demo wiki in Firefox with ~TiddlyFox installed
+* Show the seamless saving
+* Show source, enable encryption, resave, check source
+* Show table of contents:
+** Create new tiddler tagged `$:/tags/SideBar` containing:
+*> <$transclude tiddler="StandaloneDemoCode" mode="block"/>
+** Show adding new entries
+* Show other system tags

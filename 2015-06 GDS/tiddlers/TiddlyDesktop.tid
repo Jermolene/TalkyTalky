@@ -1,8 +1,8 @@
 title: TiddlyDesktop
-background-color: #d8e7d3
+background-color: #DEFF65
 
 ! Saving with ~TiddlyDesktop
 
 [img height="400" [TiddlyDesktop.png]]
 
-~TiddlyDesktop is a custom browser with extensions to support working with ~TiddlyWiki. Based on node-webkit.
+~TiddlyDesktop is a custom browser with extensions to support working with ~TiddlyWiki. Based on nw.js (formerly known as node-webkit).

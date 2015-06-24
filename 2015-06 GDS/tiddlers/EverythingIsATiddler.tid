@@ -1,5 +1,5 @@
 title: EverythingIsATiddler
-background-color: #d8d3e7
+background-color: #FF7575
 
 ! Everything is a Tiddler
 
@@ -9,8 +9,8 @@ It's tiddlers, all the way down. The tiddler model is used for:
 * ~JavaScript ~CommonJS-compatible modules
 * User interface state
 * Configuration eg
-** Settings [[$:/config/Navigation/UpdateAddressBar]]
-** Editor type mappings [[$:/config/EditorTypeMappings/image/gif]]
+** Settings `$:/config/Navigation/UpdateAddressBar`
+** Editor type mappings `$:/config/EditorTypeMappings/image/gif`
 * Plugins:
 ** Core code
 ** Themes

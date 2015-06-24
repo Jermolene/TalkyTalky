@@ -1,0 +1,17 @@
+title: Internalities
+background-color: #A7FF7B
+
+! Architectural Coherence
+
+People need tools to have a clear, reliable mental model in order to be useful. The classic tools of history present elegant, generative models:
+
+* Physical card index systems
+* The grid of ~VisiCalc/Excel
+* The file/directory structure of Unix
+* The combination of HTML and HTTP
+
+~TiddlyWiki strives to do the same thing with its "hypertext card index system from the future".
+
+Everything is a tiddler, and the only process is wikification.
+
+Optimise everything for re-use.

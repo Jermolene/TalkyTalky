@@ -4,25 +4,24 @@ title: $:/DefaultTiddlers
 type: text/vnd.tiddlywiki
 
 TalkyTalky
-History
+WhatIsTiddlyWiki
 Introduction
-Features
+StandaloneDemo
 Saving
 TiddlyFox
+TiddlyFoxDemo
 TiddlyDesktop
+TiddlyDesktopDemo
 TWEdit
-SingleFileDemo
-TaskManagementDemo
-Customisation
+NodeDemo
+InTheWild
 Serverlessness
+Internalities
 TiddlersWikification
 EverythingIsATiddler
 RenderingPipeline
 UserInterfaceState
-Node.js
-StaticSiteGeneration
 ServerSync
-[[Using TiddlyWiki as a Library]]
 Reflections
 Shoutouts
 End
